@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698969540080",
+    "project_id": "revlibertaireblogpwa",
+    "storage_bucket": "revlibertaireblogpwa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698969540080:android:1e22514909e60df8f3c935",
+        "android_client_info": {
+          "package_name": "org.revlibertaire.rev_libertaire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIWhoaP4CV2qabpC72JtILX18pQ3DuyLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
