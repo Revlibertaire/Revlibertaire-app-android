@@ -22,7 +22,7 @@
 
 ## 🎯 À Propos
 
-**Revlibertaire** est l'application mobile officielle du site [revlibertaire.unionlibertaireanarchiste.org](https://revlibertaire.unionlibertaireanarchiste.org). Elle permet de consulter les articles, actualités et analyses du forum Revlibertaire directement depuis votre smartphone Android.
+**Revlibertaire** est l'application mobile officielle du site [revlibertaire.unionlibertaireanarchiste.org](https://revlibertaire.unionlibertaireanarchiste.org). Elle permet de consulter les articles, actualités et analyses du blog Réveil Libertaire directement depuis votre smartphone Android.
 
 > 🚩 **Rouge** pour la révolution sociale  
 > 🏴 **Noir** pour l'anarchisme
